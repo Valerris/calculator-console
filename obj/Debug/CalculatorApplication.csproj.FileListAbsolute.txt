@@ -1,0 +1,18 @@
+D:\VS CODE\CS\НечётМнож\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+D:\VS CODE\CS\НечётМнож\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+D:\VS CODE\CS\НечётМнож\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+D:\VS CODE\CS\НечётМнож\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+D:\VS CODE\CS\НечётМнож\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\VS CODE\CS\НечётМнож\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+F:\НечётМнож - копия\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+F:\НечётМнож - копия\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+F:\НечётМнож - копия\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+F:\НечётМнож - копия\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+F:\НечётМнож - копия\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+F:\НечётМнож - копия\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Нечёткие Множества\1\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\ASUS\Desktop\Нечёткие Множества\1\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\ASUS\Desktop\Нечёткие Множества\1\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+C:\Users\ASUS\Desktop\Нечёткие Множества\1\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\ASUS\Desktop\Нечёткие Множества\1\Lab1\Calculator\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\ASUS\Desktop\Нечёткие Множества\1\Lab1\Calculator\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
